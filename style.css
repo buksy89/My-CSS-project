@@ -1,0 +1,96 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+/* Nav display*/
+body {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  padding-left: 10%;
+  padding-right: 10;
+}
+#nav--display {
+  background-color: bisque;
+  display: flex;
+  padding: auto;
+  gap: 0;
+}
+/* section start here*/
+
+#Style--display {
+  color: black;
+  border: 0;
+  padding: 20px;
+  width: 900px;
+  height: 120px;
+  text-align: justify;
+  letter-spacing: 1px;
+}
+#work--display {
+  padding-bottom: 5%;
+  padding-top: 10%;
+}
+#About--display {
+  font-size: 50px;
+  color: blueviolet;
+}
+h2 {
+  font-weight: 1200;
+}
+.head {
+  font-weight: 900;
+}
+.skills {
+  font-weight: bold;
+  padding-top: 3%;
+}
+.education {
+  font-weight: bold;
+  padding-top: 3%;
+}
+
+#table--display {
+  padding: 0.5%;
+  margin: 5%;
+}
+th,
+td {
+  border: 2px solid black;
+  padding: 20px;
+  background-color: bisque;
+}
+th {
+  color: solid black;
+}
+td {
+  border-color: blue;
+}
+#resume--display {
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+.h2--display {
+  text-align: center;
+}
+.experience {
+  font-weight: bold;
+  padding-top: 3%;
+}
+.extra {
+  font-weight: bold;
+  padding-top: 3%;
+}
+.contact--display {
+  padding-top: 5%;
+}
+.company--display {
+  padding-top: 5%;
+}
+.video--display {
+  color: blue;
+}
+.audio {
+  padding-top: 5%;
+  color: blue;
+}
